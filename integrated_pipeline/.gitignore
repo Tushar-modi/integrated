@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+outputs/*
+logs/audit/*
+!logs/audit/.gitkeep
+!outputs/.gitkeep

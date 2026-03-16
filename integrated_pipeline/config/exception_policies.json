@@ -1,0 +1,17 @@
+{
+  "missing_evidence": {
+    "severity": "high",
+    "resolution": "Clarification request to CSR",
+    "next_agent": "Clarification_Composer_Agent"
+  },
+  "unclear_classification": {
+    "severity": "medium",
+    "resolution": "Escalate for manual triage",
+    "next_agent": "Clarification_Composer_Agent"
+  },
+  "policy_conflict": {
+    "severity": "high",
+    "resolution": "Hold case and notify compliance",
+    "next_agent": "Policy_Adherence_Agent"
+  }
+}

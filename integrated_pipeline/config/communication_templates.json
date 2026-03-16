@@ -1,0 +1,7 @@
+{
+  "delay_resolution": "Hello {{name}}, we apologise for the delay. New ETA: {{eta}}. A goodwill credit of {{amount}} {{currency}} has been approved.",
+  "quality_resolution": "Hello {{name}}, we are sorry about the quality issue. A replacement is on its way and a credit of {{amount}} {{currency}} has been applied to your account.",
+  "billing_resolution": "Hello {{name}}, we have identified and corrected the billing discrepancy. A credit of {{amount}} {{currency}} has been issued to your account.",
+  "service_resolution": "Hello {{name}}, we regret the service issue you experienced. A goodwill credit of {{amount}} {{currency}} has been applied.",
+  "signature": "Warm regards,\nCustomer Experience Team"
+}

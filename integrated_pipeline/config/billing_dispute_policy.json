@@ -1,0 +1,16 @@
+{
+  "version": "2025.12",
+  "billing_dispute": {
+    "threshold_amount": 100,
+    "actions": [
+      {
+        "name": "Price adjustment credit 100%",
+        "eligibility": "overcharge>0"
+      },
+      {
+        "name": "Goodwill credit 5%",
+        "eligibility": "overcharge>0"
+      }
+    ]
+  }
+}

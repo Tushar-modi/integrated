@@ -1,0 +1,71 @@
+{
+  "compliance_rules": {
+    "require_all_steps": true,
+    "max_step_duration_minutes": 30,
+    "require_validation": true,
+    "require_timestamp": true,
+    "require_complete_audit_trail": true
+  },
+  "audit_fields": [
+    "workflow_step",
+    "agent_id",
+    "timestamp",
+    "status",
+    "complaint_id",
+    "customer_id",
+    "details",
+    "validation_status"
+  ],
+  "workflow_steps": [
+    "Complaint_Classifier",
+    "Evidence_Collector",
+    "Remedy_Planner",
+    "Credit_Trigger",
+    "Customer_Communicator",
+    "Audit_Logger"
+  ],
+  "required_workflow_steps": [
+    "Complaint_Classifier",
+    "Evidence_Collector",
+    "Remedy_Planner",
+    "Credit_Trigger",
+    "Customer_Communicator"
+  ],
+  "valid_statuses": [
+    "classified",
+    "evidence_ready",
+    "plan_ready",
+    "credit_approved",
+    "message_sent",
+    "completed",
+    "failed",
+    "clarification_requested",
+    "exception_handling"
+  ],
+  "agent_ids": [
+    "CLA-01",
+    "ECA-01",
+    "RPA-01",
+    "CTA-01",
+    "COM-01",
+    "ALA-01"
+  ],
+  "compliance_rules_soa": {
+    "data_minimization": "Only necessary data is logged",
+    "data_retention": "Logs retained per policy",
+    "consent": "Customer data processing authorized",
+    "transparency": "Audit logs document all data usage"
+  },
+  "compliance_rules_sox": {
+    "accuracy": "All entries timestamped and accurate",
+    "completeness": "All workflow steps logged",
+    "authorization": "All actions authorized",
+    "segregation": "Sensitive operations segregated"
+  },
+  "output_settings": {
+    "json_indent": 2,
+    "include_details": true,
+    "include_compliance_flags": true,
+    "generate_summary": true
+  }
+}

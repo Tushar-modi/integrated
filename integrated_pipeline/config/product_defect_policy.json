@@ -1,0 +1,20 @@
+{
+  "version": "2025.12",
+  "product_defect": {
+    "threshold_defect_pct": 5,
+    "actions": [
+      {
+        "name": "Replacement of defective units",
+        "eligibility": "defect_count>0"
+      },
+      {
+        "name": "Goodwill credit 15%",
+        "eligibility": "defect_count>0"
+      },
+      {
+        "name": "Escalation to quality team",
+        "eligibility": "defect_pct>=20"
+      }
+    ]
+  }
+}

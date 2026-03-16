@@ -1,0 +1,22 @@
+{
+  "Delivery Delay": {
+    "queue": "EvidenceCollector-Delivery",
+    "target_agent": "Evidence_Collector_Agent"
+  },
+  "Billing Dispute": {
+    "queue": "EvidenceCollector-Billing",
+    "target_agent": "Evidence_Collector_Agent"
+  },
+  "Product Defect": {
+    "queue": "EvidenceCollector-Quality",
+    "target_agent": "Evidence_Collector_Agent"
+  },
+  "Service Outage": {
+    "queue": "EvidenceCollector-Service",
+    "target_agent": "Evidence_Collector_Agent"
+  },
+  "Account Access": {
+    "queue": "EvidenceCollector-Security",
+    "target_agent": "Evidence_Collector_Agent"
+  }
+}

@@ -1,0 +1,24 @@
+# ============================================================
+# Integrated Pipeline - Unified Dependencies
+# ============================================================
+# Autogen framework (standardized to 0.4.x for all agents)
+# Agents 1, 4, 5 originally used legacy pyautogen — adapted to new API
+autogen-agentchat~=0.4.0
+autogen-core~=0.4.0
+autogen-ext~=0.4.0
+
+# Azure OpenAI (LLM backend)
+openai>=1.0.0
+
+# Web framework (FastAPI for unified server)
+fastapi>=0.110.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+
+# Utilities
+python-dotenv>=1.0.0
+textblob>=0.18.0
+pandas>=2.0.0
+
+# CORS support
+flask-cors>=4.0.0

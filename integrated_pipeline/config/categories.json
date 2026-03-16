@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Delivery Delay",
+    "keywords": ["delay", "shipment", "delivery", "late"],
+    "default_priority": "P2"
+  },
+  {
+    "name": "Billing Dispute",
+    "keywords": ["invoice", "billing", "charge", "refund"],
+    "default_priority": "P2"
+  },
+  {
+    "name": "Product Defect",
+    "keywords": ["defect", "broken", "faulty", "damage"],
+    "default_priority": "P1"
+  },
+  {
+    "name": "Service Outage",
+    "keywords": ["down", "outage", "offline", "unavailable"],
+    "default_priority": "P1"
+  },
+  {
+    "name": "Account Access",
+    "keywords": ["login", "access", "password", "locked"],
+    "default_priority": "P1"
+  }
+]

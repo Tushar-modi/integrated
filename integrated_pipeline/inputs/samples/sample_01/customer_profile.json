@@ -1,0 +1,21 @@
+{
+  "KNA1": {
+    "KUNNR": "100034",
+    "NAME1": "Acme Retail Pvt Ltd",
+    "STRAS": "12 MG Road",
+    "ORT01": "Bengaluru",
+    "REGIO": "KA",
+    "PSTLZ": "560001",
+    "LAND1": "IN",
+    "TELF1": "+91-80-5555-1100",
+    "SMTP_ADDR": "anita.rao@acmeretail.example"
+  },
+  "KNVV": {
+    "VKORG": "1000",
+    "VTWEG": "10",
+    "SPART": "01",
+    "WAERS": "INR",
+    "KDGRP": "RETL",
+    "ZTERM": "N30"
+  }
+}

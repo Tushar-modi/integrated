@@ -1,0 +1,24 @@
+{
+  "complaint_id": "CMP-2025-00089",
+  "events": [
+    {
+      "timestamp": "2025-11-25T09:10:00",
+      "channel": "email",
+      "actor": "customer",
+      "message": "Following up on order 49000199, still not delivered."
+    },
+    {
+      "timestamp": "2025-11-25T09:12:00",
+      "channel": "email",
+      "actor": "csr",
+      "message": "Checking with logistics partner."
+    },
+    {
+      "timestamp": "2025-11-26T14:55:00",
+      "channel": "email",
+      "actor": "customer",
+      "message": "Need routers before store launch."
+    }
+  ],
+  "last_status": "awaiting_carrier_update"
+}

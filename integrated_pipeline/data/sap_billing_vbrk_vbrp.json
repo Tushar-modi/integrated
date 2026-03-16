@@ -1,0 +1,74 @@
+[
+  {
+    "VBRK": {
+      "VBELN": "90004567",
+      "FKDAT": "2025-11-26",
+      "KUNNR": "100034",
+      "WAERK": "INR"
+    },
+    "VBRP": [
+      {
+        "VBELN": "90004567",
+        "POSNR": "10",
+        "MATNR": "SKU-RTX-500",
+        "FKIMG": 10,
+        "MEINS": "EA",
+        "NETWR": 45990.0
+      }
+    ]
+  },
+  {
+    "VBRK": {
+      "VBELN": "90004890",
+      "FKDAT": "2025-12-06",
+      "KUNNR": "100078",
+      "WAERK": "INR"
+    },
+    "VBRP": [
+      {
+        "VBELN": "90004890",
+        "POSNR": "10",
+        "MATNR": "SKU-LED-800",
+        "FKIMG": 100,
+        "MEINS": "EA",
+        "NETWR": 85000.0
+      }
+    ]
+  },
+  {
+    "VBRK": {
+      "VBELN": "90005123",
+      "FKDAT": "2025-12-16",
+      "KUNNR": "100112",
+      "WAERK": "INR"
+    },
+    "VBRP": [
+      {
+        "VBELN": "90005123",
+        "POSNR": "10",
+        "MATNR": "SKU-SSX-200",
+        "FKIMG": 50,
+        "MEINS": "EA",
+        "NETWR": 62500.0
+      }
+    ]
+  },
+  {
+    "VBRK": {
+      "VBELN": "90004750",
+      "FKDAT": "2025-11-20",
+      "KUNNR": "K-55881",
+      "WAERK": "INR"
+    },
+    "VBRP": [
+      {
+        "VBELN": "90004750",
+        "POSNR": "10",
+        "MATNR": "SKU-ELC-300",
+        "FKIMG": 200,
+        "MEINS": "EA",
+        "NETWR": 34000.0
+      }
+    ]
+  }
+]

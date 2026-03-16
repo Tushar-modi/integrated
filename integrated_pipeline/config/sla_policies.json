@@ -1,0 +1,27 @@
+{
+  "Delivery Delay": {
+    "P1": {"target_hours": 12},
+    "P2": {"target_hours": 24},
+    "P3": {"target_hours": 48}
+  },
+  "Billing Dispute": {
+    "P1": {"target_hours": 8},
+    "P2": {"target_hours": 24},
+    "P3": {"target_hours": 72}
+  },
+  "Product Defect": {
+    "P1": {"target_hours": 12},
+    "P2": {"target_hours": 36},
+    "P3": {"target_hours": 96}
+  },
+  "Service Outage": {
+    "P1": {"target_hours": 4},
+    "P2": {"target_hours": 16},
+    "P3": {"target_hours": 36}
+  },
+  "Account Access": {
+    "P1": {"target_hours": 6},
+    "P2": {"target_hours": 24},
+    "P3": {"target_hours": 72}
+  }
+}

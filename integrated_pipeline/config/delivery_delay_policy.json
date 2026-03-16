@@ -1,0 +1,16 @@
+{
+  "version": "2025.11",
+  "delivery_delay": {
+    "threshold_days": 2,
+    "actions": [
+      {
+        "name": "Expedite shipment",
+        "eligibility": "delay>0"
+      },
+      {
+        "name": "Goodwill credit 5%",
+        "eligibility": "delay>=2"
+      }
+    ]
+  }
+}

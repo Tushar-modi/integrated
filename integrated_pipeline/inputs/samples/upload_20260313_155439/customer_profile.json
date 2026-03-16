@@ -1,0 +1,21 @@
+{
+  "KNA1": {
+    "KUNNR": "100112",
+    "NAME1": "NovaTech Solutions Pvt Ltd",
+    "STRAS": "88 Industrial Area Phase II",
+    "ORT01": "Pune",
+    "REGIO": "MH",
+    "PSTLZ": "411018",
+    "LAND1": "IN",
+    "TELF1": "+91-20-6666-3300",
+    "SMTP_ADDR": "vikram.mehta@novatech.example"
+  },
+  "KNVV": {
+    "VKORG": "1000",
+    "VTWEG": "10",
+    "SPART": "01",
+    "WAERS": "INR",
+    "KDGRP": "TECH",
+    "ZTERM": "N30"
+  }
+}

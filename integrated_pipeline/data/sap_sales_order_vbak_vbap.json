@@ -1,0 +1,94 @@
+[
+  {
+    "VBAK": {
+      "VBELN": "49000199",
+      "VKORG": "1000",
+      "VTWEG": "10",
+      "SPART": "01",
+      "KUNNR": "100034",
+      "BSTNK": "PO-2025-00173",
+      "AUDAT": "2025-11-20",
+      "WAERK": "INR"
+    },
+    "VBAP": [
+      {
+        "VBELN": "49000199",
+        "POSNR": "10",
+        "MATNR": "SKU-RTX-500",
+        "MAKTX": "Wireless Router XT-500",
+        "KWMENG": 10,
+        "MEINS": "EA",
+        "EDATU": "2025-11-25"
+      }
+    ]
+  },
+  {
+    "VBAK": {
+      "VBELN": "49000250",
+      "VKORG": "1000",
+      "VTWEG": "10",
+      "SPART": "02",
+      "KUNNR": "100078",
+      "BSTNK": "PO-2025-00210",
+      "AUDAT": "2025-11-28",
+      "WAERK": "INR"
+    },
+    "VBAP": [
+      {
+        "VBELN": "49000250",
+        "POSNR": "10",
+        "MATNR": "SKU-LED-800",
+        "MAKTX": "LED Panel LP-800",
+        "KWMENG": 100,
+        "MEINS": "EA",
+        "EDATU": "2025-12-05"
+      }
+    ]
+  },
+  {
+    "VBAK": {
+      "VBELN": "49000312",
+      "VKORG": "1000",
+      "VTWEG": "10",
+      "SPART": "01",
+      "KUNNR": "100112",
+      "BSTNK": "PO-2025-00287",
+      "AUDAT": "2025-12-08",
+      "WAERK": "INR"
+    },
+    "VBAP": [
+      {
+        "VBELN": "49000312",
+        "POSNR": "10",
+        "MATNR": "SKU-SSX-200",
+        "MAKTX": "Smart Switch SX-200",
+        "KWMENG": 50,
+        "MEINS": "EA",
+        "EDATU": "2025-12-15"
+      }
+    ]
+  },
+  {
+    "VBAK": {
+      "VBELN": "49000275",
+      "VKORG": "1000",
+      "VTWEG": "10",
+      "SPART": "01",
+      "KUNNR": "K-55881",
+      "BSTNK": "PO-2025-00245",
+      "AUDAT": "2025-11-10",
+      "WAERK": "INR"
+    },
+    "VBAP": [
+      {
+        "VBELN": "49000275",
+        "POSNR": "10",
+        "MATNR": "SKU-ELC-300",
+        "MAKTX": "Electronic Component EC-300",
+        "KWMENG": 200,
+        "MEINS": "EA",
+        "EDATU": "2025-11-18"
+      }
+    ]
+  }
+]

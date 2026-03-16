@@ -1,0 +1,24 @@
+{
+  "complaint_id": "CMP-2025-00201",
+  "events": [
+    {
+      "timestamp": "2025-12-16T08:00:00",
+      "channel": "email",
+      "actor": "customer",
+      "message": "8 out of 50 Smart Switch SX-200 units have defective touch panels."
+    },
+    {
+      "timestamp": "2025-12-16T09:15:00",
+      "channel": "phone",
+      "actor": "csr",
+      "message": "Logged quality complaint. Asked for photos and batch details."
+    },
+    {
+      "timestamp": "2025-12-17T14:00:00",
+      "channel": "email",
+      "actor": "customer",
+      "message": "Sent defect photos and batch numbers. Need replacement ASAP."
+    }
+  ],
+  "last_status": "awaiting_quality_review"
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "LIKP": {
+      "VBELN": "80001234",
+      "KUNNR": "100034",
+      "LFDAT": "2025-11-25",
+      "STATUS": "IN_TRANSIT"
+    },
+    "LIPS": [
+      {
+        "VBELN": "80001234",
+        "POSNR": "10",
+        "MATNR": "SKU-RTX-500",
+        "LFIMG": 10,
+        "MEINS": "EA"
+      }
+    ]
+  },
+  {
+    "LIKP": {
+      "VBELN": "80001290",
+      "KUNNR": "100078",
+      "LFDAT": "2025-12-05",
+      "STATUS": "DELIVERED"
+    },
+    "LIPS": [
+      {
+        "VBELN": "80001290",
+        "POSNR": "10",
+        "MATNR": "SKU-LED-800",
+        "LFIMG": 100,
+        "MEINS": "EA"
+      }
+    ]
+  },
+  {
+    "LIKP": {
+      "VBELN": "80001345",
+      "KUNNR": "100112",
+      "LFDAT": "2025-12-15",
+      "STATUS": "DELIVERED"
+    },
+    "LIPS": [
+      {
+        "VBELN": "80001345",
+        "POSNR": "10",
+        "MATNR": "SKU-SSX-200",
+        "LFIMG": 50,
+        "MEINS": "EA"
+      }
+    ]
+  },
+  {
+    "LIKP": {
+      "VBELN": "80001310",
+      "KUNNR": "K-55881",
+      "LFDAT": "2025-11-18",
+      "STATUS": "DELIVERED"
+    },
+    "LIPS": [
+      {
+        "VBELN": "80001310",
+        "POSNR": "10",
+        "MATNR": "SKU-ELC-300",
+        "LFIMG": 200,
+        "MEINS": "EA"
+      }
+    ]
+  }
+]
